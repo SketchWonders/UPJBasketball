@@ -1,0 +1,49 @@
+Minimal Documentation:
+1. Class Diagram:
+	See classDiagram.JPG
+
+2. Patterns used:
+	We roughly followed the Decorator Pattern in that we made a Players class
+	and an Accessories class. Each of our players and accessories were created
+	in their respective class. As customers made their order, accessories were 
+	added to players to create a new player type. 
+
+3. File Storage Design:
+	The Players, Accessories, and Receipts (reports) were saved in a text file.
+	The files were read in using File IO and the Scanner. The files were saved by
+	first by writing the objects to a string like how they are read in, separated
+	by attributes with a ";" with each object on it's own line. (more on this later).
+
+4. Generating Reports Design:
+	Print out the receipts from orders file.
+	
+5. Map Objects?
+	Yes. We are taking the information we take from the files, specifically for 
+	the accessories and players, and writing to array lists. We are doing this because
+	it is very easy to add, remove, and parse through items in a list. 
+	
+6. User Interface and Menu Options?
+	Start of at the main UI with options of being a regular user, a manager, or to exit.
+	Each option has a submenu with options specific to each user.
+	There is an option to go back to the main menu and switch users as well.
+
+7. Language Choice. Why?
+	Java was used as it was the most familiar for the coders. Additionally,
+	Java additionally is platform independent which means for future improvements
+	we do not need to worry about adapting the code (or rewriting it) to be
+	cross-platform. Along with it's motility, Java is also object-oriented which
+	for this project made creating Player and Accessory objects very easy.
+	Compared to C#, Java is more so class based, which was a tad easier to program
+	at this stage. Ultimately from my perspective, Java is more so a language for 
+	computer applications while C# is more so for games and mobile application development.
+	Hence, Java was picked. 
+
+8. Design Constraints/Limitations?
+	When reading in from a file from readFileRet, a maximum of 1000 lines can be read. Perhaps in 
+	future improvements, this choice will be altered. Additionally, our design makes removing accessories
+	quite difficult and thus is not implemented in this program. 
+
+9. Future Design Improvements:
+	Add GUI
+	Increase efficiency
+	Make the program more so robust to allow for problematic inputs. 

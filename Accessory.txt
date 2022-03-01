@@ -1,0 +1,13 @@
+Wristband;Wristband;2.0;8
+Headband;Headband;4.0;10
+KneeBrace;Knee Brace;5.0;9
+DoRag;Do-Rag;8.0;25
+SkullCap;Skull Cap;3.0;26
+ArmSleeve;Arm Sleeve;40.0;1
+NoPerscriptionSpecs;No Prescription Specs;20.0;13
+ElbowPad;Elbow Pad;17.0;8
+FingerTape;Finger Tape;2.0;1
+FaceMask;Face Mask;5.0;6
+MouthGuard;Mouth Guard;10.0;-10
+ManBun;Man Bun;35.0;-20
+boot;boot;34.0;12

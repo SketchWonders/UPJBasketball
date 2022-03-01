@@ -1,0 +1,6 @@
+EightYO;8-year old 4'2" third grader;20.0;10
+TenYO;10-year old 4'6" fifth grader;22.0;12
+TwentyOneYO;21-year old 6'7" college player;18.0;13
+TwentyEightYO;28-year old 6'9" professional player;19.0;15
+FortyFiveYO;45-year old 5'10" middle aged man;28.0;18
+rick;6 foot 8;45.0;3

@@ -1,0 +1,9 @@
+2019-10-02;TwentyEightYO;DoRag;JOSHUA;8.0;$27.00
+2019-10-01;Baby;ManBun, NoPerscriptionSpecs;ASHLEY;35.0, 20.0;$555.00
+2019-10-01;TwentyOneYO;KneeBrace;ASHLEY;5.0;$23.00
+2019-10-01;FortyFiveYO;DoRag, ;ASHLEY;8.0, ;$36.0
+2019-10-01;EightYO;Headband, ;ASHLEY;4.0, ;$24.0
+2019-10-01;TenYO;FaceMask, ;ASHLEY;5.0, ;$27.0
+2019-10-01;FortyFiveYO;ArmSleeve, ;ASHLEY;40.0, ;$68.0
+2019-10-01;TwentyOneYO;ManBun, Headband, Wristband;ASHLEY;35.0, 4.0, 2.0;$59.00
+2019-10-02;TenYO;MouthGuard;ASHLEY;10.0;$32.00
